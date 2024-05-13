@@ -25,7 +25,7 @@ In an era where deepfakes and manipulated images are prevalent, the ability to d
 ```bash
 git clone https://github.com/MoazzamGondal1/Face-Detection-Real-vs-Fake.git
 ```
-2. Open the face_detection.ipynb notebook.
+2. Open the real_fake_images.ipynb notebook.
 3. Follow the instructions in the notebook to preprocess the dataset, train the model, and evaluate its performance.
 
 
