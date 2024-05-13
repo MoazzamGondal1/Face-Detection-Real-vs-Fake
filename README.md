@@ -7,7 +7,6 @@ This project implements deep learning models and transfer leaning for distinguis
 - [Introduction](#introduction)
 - [Contributors](#contributors)
 - [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 
