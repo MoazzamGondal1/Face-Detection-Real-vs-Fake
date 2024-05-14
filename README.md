@@ -31,7 +31,7 @@ git clone https://github.com/MoazzamGondal1/Face-Detection-Real-vs-Fake.git
 
 ## Data and Models
 
-Get dataset here: [https://drive.google.com/drive/folders/1HT20anTP17EfqZomtODsBrs521DOvO4D?usp=drive_link](https://drive.google.com/drive/folders/1pz6nq7qiteq2ZHqmoHEm_4b7iyROrcxw?usp=drive_link)
-Get trained models here: [https://drive.google.com/drive/folders/1HT20anTP17EfqZomtODsBrs521DOvO4D?usp=drive_link](https://drive.google.com/drive/folders/1HT20anTP17EfqZomtODsBrs521DOvO4D?usp=drive_link)
+- Get dataset here: [Dataset](https://drive.google.com/drive/folders/1pz6nq7qiteq2ZHqmoHEm_4b7iyROrcxw?usp=drive_link)
+- Get trained models here: [Trained Modes](https://drive.google.com/drive/folders/1HT20anTP17EfqZomtODsBrs521DOvO4D?usp=drive_link)
 
 
