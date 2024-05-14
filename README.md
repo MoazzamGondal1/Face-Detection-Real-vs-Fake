@@ -7,6 +7,7 @@ This project implements deep learning models and transfer leaning for distinguis
 - [Introduction](#introduction)
 - [Contributors](#contributors)
 - [Usage](#usage)
+- [Data and Models](#data)
 
 ## Introduction
 
@@ -27,5 +28,10 @@ git clone https://github.com/MoazzamGondal1/Face-Detection-Real-vs-Fake.git
 ```
 2. Open the real_fake_images.ipynb notebook.
 3. Follow the instructions in the notebook to preprocess the dataset, train the model, and evaluate its performance.
+
+## Data and Models
+
+Get dataset here: [https://drive.google.com/drive/folders/1HT20anTP17EfqZomtODsBrs521DOvO4D?usp=drive_link](https://drive.google.com/drive/folders/1pz6nq7qiteq2ZHqmoHEm_4b7iyROrcxw?usp=drive_link)
+Get trained models here: [https://drive.google.com/drive/folders/1HT20anTP17EfqZomtODsBrs521DOvO4D?usp=drive_link](https://drive.google.com/drive/folders/1HT20anTP17EfqZomtODsBrs521DOvO4D?usp=drive_link)
 
 
