@@ -15,7 +15,7 @@ In an era where deepfakes and manipulated images are prevalent, the ability to d
 ## Contributors
 
 - **Moazzam Umer** - [GitHub](https://github.com/MoazzamGondal1)
-- **Daniyal Ijaz** 
+- **Daniyal Ijaz** - [GitHub](https://github.com/Daniyal117)
 - **Abdullah Umar** - [GitHub](https://github.com/abdxlahs)
 
 ## Usage
