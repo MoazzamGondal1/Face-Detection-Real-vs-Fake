@@ -1,4 +1,4 @@
-# Face Detection using TensorFlow
+# Face Detection : Real vs. Fake
 
 This project delves into the realm of computer vision and deep learning to tackle the increasingly prevalent issue of distinguishing between real and fake faces. With the proliferation of deepfakes and manipulated images, it has become crucial to develop robust algorithms capable of discerning digital authenticity. Leveraging the power of TensorFlow, this project explores various deep learning models and transfer learning techniques to create a reliable classifier for this purpose.
 
